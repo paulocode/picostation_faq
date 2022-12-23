@@ -9,7 +9,7 @@ Early 2023 to Mid 2023
 Same with xStation: PU-8 and PU-18.
 
 ## Does it need soldering?
-Yes, and pin lifting.
+Yes, and pin lifting. https://gamingdoc.org/wp-content/uploads/2021/01/xStation_Installation_Guide_english_PU18.pdf
 
 ## Can we keep the real CD laser?
 Not currently. It's maybe possible but requires soldering to the raised pins and a switchboard.
