@@ -6,7 +6,7 @@ https://twitter.com/paulo7x8/status/1602007862733312000
 Early 2023 to Mid 2023
 
 ## Compatible PSX models?
-Same with xStation, PU-8 and PU-18.
+Same with xStation: PU-8 and PU-18.
 
 ## Does it need soldering?
 Yes, and pin lifting.
