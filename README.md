@@ -23,3 +23,6 @@ Preferably yes, but you can also use an FPC/FFC adapter: https://twitter.com/pau
 3. Logic analyzer of a PS1 with a real CD
 4. xStation pinouts: https://github.com/x-station/xstation-issues/issues/52 https://github.com/x-station/xstation-issues
 5. Help from PSXDev team
+
+## Can you do the same on PS2/Saturn/Dreamcast?
+No, sorry.
