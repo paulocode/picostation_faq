@@ -3,7 +3,7 @@
 https://twitter.com/paulo7x8/status/1602007862733312000
 
 ## When release?
-Early to Mid 2023
+When it's done
 
 ## Compatible PSX models?
 Same with xStation: PU-8 and PU-18.
